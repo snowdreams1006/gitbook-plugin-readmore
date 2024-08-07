@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gitbook-plugin-customize-page-title": "^0.0.4",
     "gitbook-plugin-mygitalk": "^0.2.6"
   }
 }
