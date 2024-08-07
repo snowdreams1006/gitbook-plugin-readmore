@@ -25,8 +25,7 @@ git add .
 git commit -m "auto deploy website"
 
 # push to github and others
-git pu
-h origin
+git push
 
 # status latest 
 git status
