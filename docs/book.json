@@ -10,11 +10,17 @@
         }
     },
     "plugins": [
+        "tbfed-pagefooter",
         "favicon-absolute",
         "readmore",
         "copyright"
     ],
     "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"原创声明",
+            "modify_label": "该文件最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
         "favicon-absolute": {
             "favicon": "/favicon.ico",
             "bookmark": "/bookmark.ico",
