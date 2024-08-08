@@ -1,15 +1,10 @@
 var readmoreConfig = {};
-
 module.exports = {
     hooks: {
         "init": function() {
-            this.log.debug.ln('init', this.options.pluginsConfig.readmore);
-
             readmoreConfig = this.options.pluginsConfig.readmore;
         },
         "page": function(page) {
-            this.log.debug.ln('page', JSON.stringify(page.content));
-
             if (readmoreConfig) {
                 var str = `
                 <div id="container">
