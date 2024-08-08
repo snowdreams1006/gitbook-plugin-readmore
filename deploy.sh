@@ -1,7 +1,9 @@
 #! /bin/bash
 
+# copy info
 cp -rf README.md docs/
 cp -rf README.md example/
+cp -rf docs/SUMMARY.md example/
 
 # status latest
 git status
