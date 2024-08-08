@@ -1,6 +1,9 @@
 #! /bin/bash
 
-# status latest 
+cp -rf README.md docs/
+cp -rf README.md example/
+
+# status latest
 git status
 
 # pull latest 

@@ -1,4 +1,4 @@
-# 欢迎访问 [gitbook-plugin-readmore](https://snowdreams1006.github.io/gitbook-plugin-readmore/) 官网 👋
+# 1欢迎访问 [gitbook-plugin-readmore](https://snowdreams1006.github.io/gitbook-plugin-readmore/) 官网 👋
 
 [![npm:version](https://img.shields.io/npm/v/gitbook-plugin-readmore.svg)](https://www.npmjs.com/package/gitbook-plugin-readmore)
 [![npm:download](https://img.shields.io/npm/dt/gitbook-plugin-readmore.svg)](https://www.npmjs.com/package/gitbook-plugin-readmore)
@@ -46,7 +46,11 @@
 - 运行 `gitbook install` 命令安装到本地项目
 
 ```bash
+# 方式一: gitbook安装插件
 $ gitbook install
+
+# 方式二: npm直接安装
+$ npm i gitbook-plugin-readmore
 ```
 
 - 运行 `gitbook build` 命令构建本地项目或者 `gitbook serve` 启动本地服务.
