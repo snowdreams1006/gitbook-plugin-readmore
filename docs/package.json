@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "gitbook-plugin-customize-page-title": "^0.0.4",
-    "gitbook-plugin-mygitalk": "^0.2.6"
+    "gitbook-plugin-copyright": "^0.4.1",
+    "gitbook-plugin-favicon-absolute": "^0.1.1",
+    "gitbook-plugin-last-update-time": "^1.1.2",
+    "gitbook-plugin-readmore": "^1.2.1"
   }
 }

@@ -10,16 +10,15 @@
         }
     },
     "plugins": [
-        "tbfed-pagefooter",
+        "last-update-time",
         "favicon-absolute",
         "readmore",
         "copyright"
     ],
     "pluginsConfig": {
-        "tbfed-pagefooter": {
-            "copyright":"雪之梦技术驿站",
-            "modify_label": "该文件最后修改时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        "last-update-time": {
+            "label": "最后更新时间",
+            "format": "YYYY-MM-DD HH:mm:ss"
         },
         "favicon-absolute": {
             "favicon": "/favicon.ico",
