@@ -12,7 +12,7 @@ module.exports = {
                 </div>
                 <script src="https://blog.snowdreams1006.cn/assets/js/readmore.js" type="text/javascript"></script>
                 <script>
-                    const btw = new BTWPlugin();
+                    let btw = new BTWPlugin();
                     let readmoreConfig = ${JSON.stringify(readmoreConfig)};
                     btw.init(readmoreConfig);
                 </script>`;
