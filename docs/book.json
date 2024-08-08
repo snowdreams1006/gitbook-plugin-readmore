@@ -17,7 +17,7 @@
     ],
     "pluginsConfig": {
         "last-update-time": {
-            "label": "最后更新时间",
+            "label": "最后更新时间: ",
             "format": "YYYY-MM-DD HH:mm:ss"
         },
         "favicon-absolute": {
