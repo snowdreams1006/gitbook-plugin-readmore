@@ -11,7 +11,7 @@
 
 ## 效果
 
-![readmore-use-preview.png](readmore-use-preview.png)
+![readmore-use-preview.png](https://snowdreams1006.github.io/gitbook-plugin-readmore/readmore-use-preview.png)
 
 ## 用法
 
