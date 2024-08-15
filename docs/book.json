@@ -12,7 +12,7 @@
     "plugins": [
         "last-update-time",
         "favicon-absolute",
-        "readmore",
+        "copy-code-button",
         "copyright",
         "icp"
     ],

@@ -65,13 +65,6 @@ $ gitbook build
 $ gitbook serve
 ```
 
-## 示例
-
-不仅 [gitbook-plugin-readmore](https://github.com/snowdreams1006/gitbook-plugin-readmore) **官方文档**已整合 `readmore` 版权保护插件,此外还提供了示例项目,详情参考 `example` 目录.
-
-- [官方文档](https://github.com/snowdreams1006/gitbook-plugin-readmore/tree/master/docs)
-- [官方示例](https://github.com/snowdreams1006/gitbook-plugin-readmore/tree/master/example)
-
 ## 作者
 
 👤 **snowdreams1006**
