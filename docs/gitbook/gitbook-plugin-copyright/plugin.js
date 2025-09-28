@@ -43,7 +43,10 @@ require([
 
     function getCopyright() {
         var site = copyrightConfig.site;
-        if (site.slice(-1) != "/") {
+        if(!site){
+            site = location.origin;
+        }
+        if (site && site.slice(-1) != "/") {
             site += '/';
         }
         var author = copyrightConfig.author;
